@@ -1,0 +1,13 @@
+{
+  "name": "Export to ICO",
+  "id": 177614746652522,
+  "main": "dist/main.js",
+  "ui": "dist/index.html",
+  "editor_type": [
+    "canvas",
+    "devMode"
+  ],
+  "capabilities": [
+    "inspect"
+  ]
+}
